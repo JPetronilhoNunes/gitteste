@@ -5,3 +5,5 @@ Console.WriteLine("From BetaGit!");
 
 Console.WriteLine("From GitTeste!");
 Console.WriteLine("From BetaGit #2!");
+
+Console.WriteLine("From BetaGit #3!");
